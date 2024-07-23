@@ -1,0 +1,6 @@
+homepage: "https://captiv8.io"
+documentation: "https://docs.captiv8.io"
+versions:
+  # Latest version
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial Version
