@@ -2,5 +2,9 @@ homepage: "https://captiv8.io"
 documentation: "https://docs.captiv8.io"
 versions:
   # Latest version
+  - sha: 76dc7488993c23e2624a0ce6cf76a06ced0b29ee
+    changeNotes: Debug output removed
+
+  # Previous versions
   - sha: 3487a6e49fb6e7e084b85345ebe6480bb8891eec
     changeNotes: Initial Version
