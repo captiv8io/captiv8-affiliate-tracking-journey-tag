@@ -89,7 +89,7 @@ const c8data = {
 
 setInWindow('c8data', c8data, true);
 
-injectScript('https://s.c8.io/px/pixel.min.js', data.gtmOnSuccess(), data.gtmOnFailure(), 'c8-pixel-library');
+injectScript('https://s.c8.io/px/pixel.min.js', data.gtmOnSuccess(), data.gtmOnFailure());
 
 
 ___WEB_PERMISSIONS___
